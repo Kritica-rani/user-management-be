@@ -28,7 +28,7 @@ The API is hosted at: [https://user-management-be-6oll.onrender.com](https://use
 ### Prerequisites
 
 - Python 3.10+
-- Docker and Docker Compose (optional)
+- Docker
 
 ### Option 1: Using Python Directly
 
